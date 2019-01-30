@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Collider
+comment1.params=
+comment1.target=java.awt.Color\ getColor()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getLocalX()
+comment5.params=
+comment5.target=int\ getLocalY()
+comment6.params=obj
+comment6.target=boolean\ hit(Collider)
+comment7.params=obj
+comment7.target=boolean\ hit(CircleCollider)
+comment8.params=obj
+comment8.target=boolean\ hit(BoxCollider)
+numComments=9

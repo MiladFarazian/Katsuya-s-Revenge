@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SongLibrary
+comment1.params=value
+comment1.target=void\ setSong(int)
+comment2.params=
+comment2.target=javax.sound.sampled.Clip\ getSong()
+numComments=3

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Rigidbody
+comment1.params=jpanel\ x\ y\ w\ h
+comment1.target=Rigidbody(javax.swing.JPanel,\ int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=int\ getFallSpeed()
+comment11.params=
+comment11.target=int\ getMoveSpeed()
+comment12.params=s
+comment12.target=void\ setMoveSpeed(int)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=
+comment3.target=int\ getGravity()
+comment4.params=gameObjects
+comment4.target=void\ fall(java.util.ArrayList)
+comment5.params=gameObjects
+comment5.target=void\ move(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ applyGravity()
+comment7.params=amt
+comment7.target=void\ setFallSpeed(int)
+comment8.params=v
+comment8.target=void\ setInAir(boolean)
+comment9.params=
+comment9.target=boolean\ isInAir()
+numComments=13

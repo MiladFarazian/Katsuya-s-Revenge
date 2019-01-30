@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SoundLibrary
+comment1.params=filename
+comment1.target=SoundLibrary(java.lang.String)
+comment2.params=file
+comment2.target=javax.sound.sampled.Clip\ getClips(java.lang.String)
+numComments=3

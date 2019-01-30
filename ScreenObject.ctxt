@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ScreenObject
+comment1.params=panel\ x_\ y_
+comment1.target=ScreenObject(javax.swing.JPanel,\ int,\ int)
+comment10.params=
+comment10.target=int\ getY()
+comment11.params=g
+comment11.target=void\ draw(java.awt.Graphics)
+comment2.params=panel\ x_\ y_\ v
+comment2.target=ScreenObject(javax.swing.JPanel,\ int,\ int,\ boolean)
+comment3.params=x_\ y_
+comment3.target=void\ setPosition(int,\ int)
+comment4.params=
+comment4.target=javax.swing.JPanel\ getPanel()
+comment5.params=foo
+comment5.target=void\ setVisible(boolean)
+comment6.params=
+comment6.target=boolean\ isVisible()
+comment7.params=amt
+comment7.target=void\ setX(int)
+comment8.params=amt
+comment8.target=void\ setY(int)
+comment9.params=
+comment9.target=int\ getX()
+numComments=12
